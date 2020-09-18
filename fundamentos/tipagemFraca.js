@@ -10,6 +10,6 @@ console.log(typeof qualquer);
 // evitar nome genericos e siglas como:
 let valor = ""
 let numero = 1
-let pqp = false // Produto Quimico Perigo... kkkk
+let pqp = false // Produto Quimico Perigoso... kkkk
 //ESCOLHER BONS NOMES É FUNDAMENTAL
 
