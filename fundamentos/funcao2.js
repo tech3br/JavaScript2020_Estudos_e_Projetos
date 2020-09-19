@@ -13,3 +13,7 @@ console.log(soma(5, 5));
 // Retorno implicito
 const subtracao = (a, b) => a - b;
 console.log(subtracao(20, 5));
+
+// retorno com implicito com apenas um parametro
+const imprimir2 = a => console.log(a);
+imprimir2("ola mundo!")
