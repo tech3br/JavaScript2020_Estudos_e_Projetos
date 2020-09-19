@@ -1,0 +1,28 @@
+// Podemos definir comentarios em javascript das seguintes maneiras:
+// com // no inicio do texto que foi digitado
+// ou com /**/ no inicio e no final do foi digitado
+
+// Exemplos:
+
+// const a = (b) => b;
+// ou
+/* const a = (b) => b; */
+
+/***************** 
+    AQUI ESCREMOS O NOSSO BLOCO DE COMENTARIO 
+    LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+    LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+    LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+    LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+    LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+******************/
+
+//  OU
+
+//  AQUI ESCREMOS OUTRO NOSSO BLOCO DE COMENTARIO 
+//  LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+//  LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+//  LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+//  LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+//  LOREM IPSUM LOREM, IPNU LOREM IPS IPSUM LOREM
+
